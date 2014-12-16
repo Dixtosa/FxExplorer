@@ -1,0 +1,9 @@
+Full_Name="Fx Explorer" #Name
+Name="FE"              #Name Used
+Full_Version="1.9"      #Full Version
+Version="1.9"           #Version Used
+Copyright = "(C) D!Xwar3"
+Description ="Function Graphic drawer : ))"
+WebSite = "http://www.Dixtosa.wordpress.com"
+Developers = ["D!Xware3 Company"]
+License = "GNU"

@@ -1,0 +1,18 @@
+USAGE
+================
+
+1) funqciis agebisas lurji feriT aigeba is funqcia romelic Cawerilia lurj 'teqstareaSi'. igives Tqma SeiZleba wiTelze da mwvaneze.
+
+2) funqciaSi SegviZlia gamoviyenoT uamravi simbolo, ariTmetikuls ar Camovwer:
+    ^ an ** <->axarisxeba. magaliTad: x^(1/3) aris kuburi fesvi, misiCawera asec SegviZlia: x**(-3)
+    log(b,a) <-> logariTmuli funqcia sadac a aris fuZe da b is cvladi ############################################## \n\t\t magaliTad:log(x,2)
+    sin(a),cos(a),tan(a),log10(a)<-> trigonometriuli funqciebi
+    sxva funqciebi:
+     a)degrees(1) abrunebs erTi radianis zomas.(57.295779513082323)
+     b)radians(57.295779513082323) gadahyavs gradusebi radianSi(1 radiani)
+     c)ceil(12.5) abrunebs ricxvis mtel nawils qvda damrgvalebit
+     d)floor(12.5) igive oRond zeda damrgavalebiT.
+     e)hypot(x,y) abrunebs fesvs(x*x+y*y)-dan anu igebs hipotenuzis sigrZes.
+    sxva mudmivebi:
+     a)pi <-> pi ricxvi
+     b)e <-> neperis ricxvi
